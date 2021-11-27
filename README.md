@@ -4,7 +4,7 @@ This is Simple Portfolio type Readme file.
 ## Here is What I'm Working On!
 ## Here are the some basic ideas to get you started:
 
-* I'm Currently working on.. __Alnafi__ :tada:
+* I'm Remotely working on.. __Web Development__ :tada:
 * I'm currently learning.. __Python__ :snake:                                           
 * I'm looking to collaborate on.. __AWS__ :+1:
 * I'm looking for help with.. __CyberSecurity__ :rocket:
