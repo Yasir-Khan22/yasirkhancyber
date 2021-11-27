@@ -1,7 +1,7 @@
 # Yasir Khan
 This is Simple Portfolio type Readme file.
 
-![yasir khan](https://github.com/settings/profile)
+![yasir khan](https://github.com/yasirkhancyber.png)
 
 ## Here is What I'm Working On!
 ## Here are the some basic ideas to get you started:
