@@ -9,7 +9,7 @@ This is Simple Portfolio type Readme file.
 * I'm looking to collaborate on.. __AWS__ :+1:
 * I'm looking for help with.. __CyberSecurity__ :rocket:
 * Ask me about.. __Anything__ :metal:
-* How to reach me.. [facebook](https://www.facebook.com/profile.php?id=100046492384891)
+* How to reach me.. [Facebook](https://www.facebook.com/profile.php?id=100046492384891), [Twitter](https://twitter.com/Khan_Zada22)
 * Pronouns.. __He/Him__ :sparkles:
 * Fun Fact.. __I'm Half Dead__ :octocat:
 
